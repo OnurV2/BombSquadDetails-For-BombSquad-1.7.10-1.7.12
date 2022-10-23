@@ -1,1 +1,1 @@
-# BombSquadDetails-for-1.7.10
+# BombSquadDetails For BombSquad 1.7.10-1.7.12
